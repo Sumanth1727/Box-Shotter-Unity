@@ -1,0 +1,13 @@
+                                                                BOX SHOOTER
+
+There are 3 types of box
+blue box  - by hitting this your score increases by 5
+white box - by hitting this your time is increased by +3 seconds
+yellow box -  by hitting this your time is decreased by 10 seconds
+
+At the start of the game you have 15 secconds.try hiiting white boxes to increase the time and try hitting the blue boxs to increase 
+the score.
+try avoiding the yellow boxes
+you can control the player using MOUSE and WSAD keys
+if the time run out it is game over
+hit the play again 3D text to start the game again
